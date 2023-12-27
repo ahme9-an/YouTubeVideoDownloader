@@ -19,9 +19,9 @@ Copy code
 ```bash
 
 
-'git clone https://github.com/ahme9-an/YouTubeVideoDownloader.git'
+git clone https://github.com/ahme9-an/YouTubeVideoDownloader.git
 
-'cd YouTubeVideoDownloader
+cd YouTubeVideoDownloader
 ```
 
 **Install Dependencies:**
