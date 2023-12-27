@@ -31,7 +31,7 @@ The application requires pytube. Install it using pip:
 Copy code
 ```bash
 
-"pip install pytube"
+pip install pytube
 ```
 **Usage**
 
